@@ -7,10 +7,12 @@ EA micro-manipulation system for microscopic samples has been designed, built an
 Table of contents:
 
       *Master Thesis Memory
-      *Slides of the presentation
+      *3D Parts
       *Arduino Firmware, based of Sprinter
       *Control Host, based on Pronterface
       
-  Videos:  
+  Videos: 
+  
+  Slides of the presentation:
 
 
