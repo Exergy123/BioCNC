@@ -10,6 +10,7 @@ Table of contents:
       *Slides of the presentation
       *Arduino Firmware, based of Sprinter
       *Control Host, based on Pronterface
-      *Videos
+      
+  Videos:  
 
 
