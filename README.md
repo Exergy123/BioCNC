@@ -13,6 +13,6 @@ Table of contents:
       
   Videos: 
   
-  Slides of the presentation:
+  Slides of the presentation: https://drive.google.com/file/d/0B_TIq5Da_yxpTi1zUm5aOUJuMXc/
 
 
