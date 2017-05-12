@@ -2,11 +2,14 @@
 
 Documentation of the master thesis "Robotic system of microsurgery based CNC control".
 
-Table of contents:
-      Master Thesis Memory
-      Slides of the presentation
-      Arduino Firmware, based of Sprinter
-      Control Host, based on Pronterface
-      Videos
+EA micro-manipulation system for microscopic samples has been designed, built and tested in this master thesis. This device accurately positions a digital microscope and micromanipulation instruments. For its implementation has been used open source technology and low cost CNC elements. Experiments with different types of samples have been carried out to verify compliance with the requirements. The resulting system is compact, low cost and easily reproducible.
 
-BioCNC is a new type of CNC, combination of biologic and new tecnologies (CNC, 3d printer, etc).
+Table of contents:
+
+      *Master Thesis Memory
+      *Slides of the presentation
+      *Arduino Firmware, based of Sprinter
+      *Control Host, based on Pronterface
+      *Videos
+
+
